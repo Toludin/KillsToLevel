@@ -1,0 +1,13 @@
+## Interface: 80000
+## Title: KillsToLevel
+## Author: smariot (smariot@gmail.com)
+## Fixer: Toludin-Stormrage
+## Notes: Estimates the number of kills needed to level.
+## Version: 1.9
+## OptionalDeps: LibDebug
+## X-Curse-Packaged-Version: 1.9
+## X-Curse-Project-Name: KillsToLevel
+## X-Curse-Project-ID: kills-to-level
+## X-Curse-Repository-ID: wow/kills-to-level/mainline
+
+main.lua
